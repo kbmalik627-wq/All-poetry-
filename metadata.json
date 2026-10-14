@@ -1,0 +1,6 @@
+{
+  "name": "All Poetry - Digital Empire #2",
+  "description": "KM DIGITAL EMPIRE #2 - Premium Urdu Poetry portal featuring classical and contemporary ghazals, sher-o-shayari, poet collections, and customizable image cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
